@@ -31,11 +31,6 @@
 <img width="350" src="https://user-images.githubusercontent.com/92260346/144797765-517890f6-17eb-480b-aa6b-9cba8da727dc.png"> <img width="350" src="https://user-images.githubusercontent.com/92260346/144797783-c41ea489-34a6-4dc6-8fc7-aaa3b2569992.png">
 
 
-# Members Group 5
-- [Rahf Nasser](https://github.com/RahafNasser-cs)
-- [ABDULLAH ALSMARI](https://github.com/Abdullah-Alsmari)
-- [khulud saleh](https://github.com/Khulud-Alsharqawi)
-
 # References
 - https://developer.android.com/guide/navigation/navigation-getting-started
 - https://kotlinlang.org/docs/coroutines-guide.html#additional-references
